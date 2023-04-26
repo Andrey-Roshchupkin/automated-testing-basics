@@ -1,0 +1,17 @@
+{
+  "name": "automated-testing-basics",
+  "version": "1.0.0",
+  "description": "Tris repo is for doing homework during the Automated Testing Basics in JavaScript 2.0 course by EPAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "Andrei Roshchupkin",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-extra": "^11.1.1",
+    "globally": "^0.0.0",
+    "package": "^1.0.1"
+  }
+}
